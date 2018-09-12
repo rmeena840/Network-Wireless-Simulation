@@ -1,2 +1,2 @@
 # Network-Wireless-Simulation
-Analysis the wireless connectivity in city or village
+Analysis of wireless connectivity in city or village
