@@ -171,7 +171,3 @@ print(minh)
 
 print("Articulation Points:")
 articulaiotnPoint(len(edge),edge)
-
-
-
-    
